@@ -1,0 +1,68 @@
+.backb{
+    position: absolute;
+    top: 122px;
+    left: 589px;
+    font-size: 22px;
+    font-family: 'Inter', sans-serif;
+}
+.backarrow{
+    display: flex;
+    position: absolute;
+    top: 120px;
+    right: 958px;
+    border: 1px solid gray;
+    background-color: gray;
+    color: white;
+    height: 32px;
+    width: 32px;
+    font-size: 27px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.newaddb{
+    display: flex;
+    font-weight: regular;
+    font-size: 22px;
+    color: #424242;
+    position: absolute;
+    top: 122px;
+    left: 754px;
+    font-family: 'Inter', sans-serif;
+}
+.newplussign{
+    display: flex;
+    position: absolute;
+    top: 120px;
+    right: 789px;
+    border: 1px solid #00A5EC;
+    background-color: #00A5EC;
+    color: white;
+    height: 32px;
+    width: 32px;
+    font-size: 27px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.pariscenter{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 192px;
+    left: 543px;
+}
+.addbutton{
+    font-family: 'Inter', sans-serif;
+}
+.newtaskpop{
+    color: gray;
+    background-color: white;
+    box-shadow: 0px 0px 16px  lightgray;
+    border: 1px solid lightgray;
+}
